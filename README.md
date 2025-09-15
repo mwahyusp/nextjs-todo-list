@@ -1,5 +1,6 @@
 To-Do List Sederhana
 Proyek ini adalah aplikasi to-do list sederhana yang dibuat menggunakan Next.js dan Tailwind CSS. Pengguna dapat menambahkan dan menghapus tugas.
+
 Prasyarat
 
 Node.js (versi LTS direkomendasikan)
